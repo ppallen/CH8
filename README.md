@@ -7,7 +7,7 @@ $ sh run_complete_detector.sh
 ```
 2.曲線圖
 
-![image-20210117021210520.png]
+![image](image-20210117021210520.png)
 
 3.分析
 
