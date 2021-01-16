@@ -7,7 +7,7 @@ $ sh run_complete_detector.sh
 ```
 2.曲線圖
 
-<img src="C:\Users\ppall\AppData\Roaming\Typora\typora-user-images\image-20210117021210520.png" alt="image-20210117021210520" style="zoom:100%;" />
+![image-20210117021210520.png]
 
 3.分析
 
